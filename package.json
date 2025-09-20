@@ -1,5 +1,5 @@
 {
-  "name": "web-pair",
+  "name": "MINETWIXBOT",
   "version": "0.0.2",
   "type": "commonjs",
   "description": "A multi-functional WhatsApp bot Pairing Web and QR Scanner.",
@@ -17,7 +17,7 @@
     "baileysQr", "MdLogin", "MEGA-AI", "whatsapp-bot", "BotWhatsapp", "whatsapp-web", "whatsapp", "session", "pair-code", "express-pairing", "whatsappbot", "express-session", "whatsapp-api", "pairing", "baileys-md", "baileys-bot",
     "whatsappLogin", "adiwajshing/baileys", "baileys-md-qr", "multi-device-qr", "whiskey sockets/baileys", "md-pair", "bot-pair", "baileysQrScanner", "botpairing", "WhatsAppPairing", "LinkDevice"
   ],
-  "author": "GlobalTechInfo",
+  "author": "MinetwixMC",
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
